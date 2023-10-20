@@ -1,0 +1,1 @@
+Dashboard linl:<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=explore&amp;pathRef=.my_folders%2Fproject%2B2&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;subView=model0000018b3ce3618a_00000004" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
